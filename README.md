@@ -13,7 +13,7 @@ This repository contains data analysis and visualization using Jupiter Notebook 
 ## Data Collection
 The dataset utilized for this analysis comprises the following  housing market indicators 
 
-Indicator        Source
+- Indicator        Source
 Label (HPI) : https://fred.stlouisfed.org/series/CSUSHPISA
 
 GDP : https://fred.stlouisfed.org/graph/?g=znfe
