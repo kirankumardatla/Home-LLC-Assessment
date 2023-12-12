@@ -13,7 +13,7 @@ This repository contains data analysis and visualization using Jupiter Notebook 
 ## Data Collection
 The dataset utilized for this analysis comprises the following  housing market indicators 
 
- Indicator        Source
+ Indicator   :       Source
 
  
 Label (HPI) : https://fred.stlouisfed.org/series/CSUSHPISA
@@ -44,6 +44,7 @@ Total Construction Spending : https://fred.stlouisfed.org/series/TTLCONS
 
 
 ## Data Visualization
+![Sample Visualization]([path/to/visualization.png](https://github.com/kirankumardatla/Home-LLC-Assessment/blob/main/Dashboard.png))
 The data has been visualized using Tableau, presenting various types of visual representations such as scatter plots, time series graphs, and Gantt views. These visualizations aim to explore and highlight the correlation between housing market indicators and economic factors.
 
 ## Conclusion
