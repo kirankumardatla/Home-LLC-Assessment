@@ -1,7 +1,7 @@
 # Data Analysis
 
 ## Overview
-This repository contains data analysis and visualization using Tableau to explore the relationship between housing market indicators and economic factors.
+This repository contains data analysis and visualization using Jupiter Notebook And Tableau to explore the relationship between housing market indicators and key factors that influence home prices nationally.
 
 ## Table of Contents
 - [Project Overview](#overview)
