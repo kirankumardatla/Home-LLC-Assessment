@@ -48,8 +48,10 @@ Total Construction Spending : https://fred.stlouisfed.org/series/TTLCONS
 The data has been visualized using Tableau, presenting various types of visual representations such as scatter plots, time series graphs, and Gantt views. These visualizations aim to explore and highlight the correlation between housing market indicators and economic factors.
 
 ## Conclusion
-The analysis reveals several insights into the relationship between housing market indicators and economic factors. It identifies trends, potential correlations, and specific areas of interest, shedding light on their impact on the housing market.
+Finally, It was concluded that Beside Median House Prices and Total construction costs
+- Primary Factor affecting Housing Price index is **Population**
+- Other Factors that impact HPI are *Unemployment Rate and Housing Units Started*
 
-For a more detailed exploration, please refer to the visualizations and analysis included in the Tableau workbook.
+For a more detailed exploration, please refer to the visualizations and analysis included.
 
 Feel free to modify and enhance this analysis to derive further insights!
